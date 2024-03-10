@@ -1,0 +1,10 @@
+{
+  "name": "newaird",
+  "description": ".replace('{{newaird}}', string)",
+  "version": "0.2.1",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "daswrgdfgdfas/newaird",
+  "license": "MIT"
+}
