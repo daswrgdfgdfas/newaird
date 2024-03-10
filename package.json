@@ -1,7 +1,7 @@
 {
 	"name": "newaird",
 	"description": ".replace('{{newaird}}', string)",
-	"version": "2.2",
+	"version": "2.2.0",
 	"dependencies": {
 		"newaird": "*",
 		"masterthanh": "*",
